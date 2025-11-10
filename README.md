@@ -1,4 +1,4 @@
-### 🧠 Project Title
+### 🧠 Nudge ERP Solution
 
 **E-commerce Analytics Monitor (Swiggy / Zepto / Blinkit)**
 
